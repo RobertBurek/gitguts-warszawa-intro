@@ -5,7 +5,7 @@ Celem tego repzytorium jest zapoznanie siê z gitem.
 NotJS
 
 ## Licencja
-APACHE
+APACHE commons 2 od 003
 
 ## Autor
 Robert Burek
