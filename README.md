@@ -5,7 +5,7 @@ Celem tego repzytorium jest zapoznanie siê z gitem.
 NotJS
 
 ## Licencja
-APACHE
+MIT 222
 
 ## Autor
 Robert Burek
