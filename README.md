@@ -6,3 +6,6 @@ Nie ma ¿adnych.
 
 ## Licencja
 MIT
+
+## Autor
+Robert Burek
