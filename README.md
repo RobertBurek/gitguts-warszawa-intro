@@ -8,4 +8,4 @@ NotJS
 CCC
 
 ## Autor
-Robert Burek
+W³aœnie ¿e JA
