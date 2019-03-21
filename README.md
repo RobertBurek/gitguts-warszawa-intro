@@ -1,11 +1,14 @@
 #Moje pierwsze repozytorium.
-Celem tego repzytorium jest zapoznanie siê z gitem.
+Celem tego repzytorium jest zapoznanie siÄ™ z gitem.
 
 ## Wymagania
-NotJS
+Node.js
 
 ## Licencja
 CCC
 
 ## Autor
-W³aœnie ¿e JA
+WÅ‚aÅ›nie Å¼e JA
+
+## Koniec
+To juÅ¼ koniec
