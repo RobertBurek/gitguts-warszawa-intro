@@ -5,7 +5,7 @@ Celem tego repzytorium jest zapoznanie siê z gitem.
 Nie ma ¿adnych.
 
 ## Licencja
-MIT
+APACHE
 
 ## Autor
 Robert Burek
